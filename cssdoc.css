@@ -1,0 +1,15 @@
+
+.scrollt {
+    overflow:scroll;
+    height:500px;
+    width:95%;
+}
+.scrollt2 {
+    overflow:scroll;
+    height:600px;
+    width:95%;
+}
+
+tr:nth-child(odd) {
+    background-color: #AAffff;
+}
