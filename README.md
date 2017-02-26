@@ -1,2 +1,3 @@
 # GPP
 za gpp
+kvarovi
